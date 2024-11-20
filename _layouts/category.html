@@ -1,0 +1,24 @@
+---
+layout: page
+---
+
+<a href="/blog/" style="text-decoration: none; color: #0056b3; font-weight: bold; display: inline-block; margin-bottom: 20px;">← Back to Blog</a>
+<h1 style="color: #333; font-size: 2rem; margin-bottom: 30px;">Posts in {{ page.title }}</h1>
+
+<ul style="list-style: none; padding: 0;">
+  {% for post in site.posts %}
+    {% if post.categories contains page.title %}
+      <li style="margin-bottom: 20px;">
+        <a href="{{ post.url | relative_url }}" style="text-decoration: none; color: #0056b3; font-size: 1.2rem; font-weight: bold;">
+          {{ post.title }}
+        </a>
+        <br>
+        <small style="color: #666; font-size: 0.9rem;">Posted on {{ post.date | date: "%B %-d, %Y" }}</small>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
+{% if forloop.length == 0 %}
+<p style="color: #666; font-size: 1rem;">No posts found in this category.</p>
+{% endif %}

@@ -1,8 +1,9 @@
 ---
-layout: post
+llayout: post
 title: "What is LangChain"
 date: 2023-11-10
 author: "Ameen Abdelmutalab"
+categories: LangChain
 tags: [data science, kaggle, google colab, dataset, tutorial]
 image: "/assets/img/langchain.png"
 ---

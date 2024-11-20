@@ -5,6 +5,7 @@ date: 2023-11-06
 author: "Ameen Abdelmutalab"
 tags: [machine learning, overfitting, data science, regularization]
 image: "/assets/img/overfitting.png"
+categories: Python
 ---
 *Figure 1. The green line represents an overfitted model, while the black line represents a regularized model. The green line closely follows the training data, but it is likely to have a higher error rate on new data (illustrated by black-outlined dots) compared to the black line. Image from [Wikipedia](https://en.wikipedia.org/wiki/Overfitting), licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).*
 

@@ -5,6 +5,7 @@ date: 2023-11-07
 author: "Ameen Abdelmutalab"
 tags: [data science, kaggle, google colab, dataset, tutorial]
 image: "/assets/img/post_kaggle_colab.png"
+categories: LangChain
 ---
 
 Integrating datasets from Kaggle into Google Colab is a powerful way to simplify your data science workflow. This tutorial will guide you through each step to seamlessly access Kaggle datasets in Colab for your analysis.

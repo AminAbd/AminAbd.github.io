@@ -83,3 +83,43 @@
         padding-top: 80px; /* Adjust based on the height of your navbar */
     }
 }
+
+/* --- New Styles for Blog Categories --- */
+
+/* Blog Categories */
+.category-list h2 {
+    color: #0056b3; /* Blue color for category headers */
+    font-size: 1.5rem;
+    margin-top: 20px;
+}
+
+.category-list ul {
+    list-style-type: none; /* Remove bullet points */
+    padding: 0;
+}
+
+.category-list li {
+    margin: 10px 0;
+}
+
+.category-list li a {
+    text-decoration: none; /* Remove underline from links */
+    color: #333; /* Dark text for links */
+    font-weight: bold;
+}
+
+.category-list li a:hover {
+    text-decoration: underline;
+    color: #0056b3; /* Blue on hover */
+}
+
+.category-list hr {
+    border: 1px solid #eaeaea; /* Light gray divider */
+    margin: 20px 0;
+}
+
+/* Highlight the current category */
+.current-category {
+    color: #0056b3; /* Blue color for active category */
+    font-weight: bold;
+}
