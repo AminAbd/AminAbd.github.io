@@ -6,5 +6,6 @@ gemspec
 
 gem 'tzinfo'
 gem 'tzinfo-data'
+gem "jekyll-archives"
 
 
