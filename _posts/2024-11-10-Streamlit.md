@@ -5,7 +5,7 @@ date: 2024-12-10
 author: "Ameen Abdelmutalab"
 tags: [data science, kaggle, google colab, dataset, tutorial]
 image: "/assets/img/streamlit.png"
-categories: Python
+categories: Spark
 
 ---
 
