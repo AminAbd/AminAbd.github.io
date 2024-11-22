@@ -1,5 +1,5 @@
 ---
 layout: category
 title: "Spark"
-permalink: /blog/Spark/
+permalink: /blog/spark/
 ---
