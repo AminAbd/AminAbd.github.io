@@ -299,6 +299,7 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-archives
 
 # _config.yml
 site-css:
