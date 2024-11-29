@@ -7,6 +7,11 @@ permalink: /certificates/
 ## List of Certificates
 Here are some certifications I've earned:
 
+
+- **Distributed Computing with Spark SQL**
+  *Issued by Coursera*
+  Course on distributed computing and big data processing with Spark SQL, authorized by the University of California, Davis.
+  [View Certificate](https://coursera.org/share/b0a1d1a7a21807a25fff22109f1afeb1)
 - **Databases and SQL for Data Science with Python**  
   *Issued by Coursera*  
   Course on databases and SQL fundamentals for data science using Python  
