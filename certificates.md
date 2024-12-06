@@ -37,3 +37,7 @@ Here are some certifications I've earned:
   Course on using SQL within Microsoft Azure for data management and analytics  
   [View Certificate](https://coursera.org/share/52ffd31656e693089e8cb343106fa637)
   
+  **Microsoft Azure Cosmos DB**  
+  *Issued by Coursera*  
+  Course on leveraging Azure Cosmos DB for distributed and non-relational data services  
+  [View Certificate](https://coursera.org/share/65b9abd2b6eaae8cbd5f5a1e271c192f)
