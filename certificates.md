@@ -41,3 +41,8 @@ Here are some certifications I've earned:
   *Issued by Coursera*  
   Course on leveraging Azure Cosmos DB for distributed and non-relational data services  
   [View Certificate](https://coursera.org/share/65b9abd2b6eaae8cbd5f5a1e271c192f)
+
+  **Modern Data Warehouse Analytics in Microsoft Azure**  
+  *Issued by Coursera*  
+  Comprehensive course on building and analyzing modern data warehouses using Microsoft Azure services  
+  [View Certificate](https://coursera.org/share/15b68e4c2832c5046889fe7678381632)
